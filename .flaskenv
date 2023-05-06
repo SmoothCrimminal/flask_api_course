@@ -1,0 +1,2 @@
+FLASK_APP=book_lib.py
+FLASK_ENV=development
